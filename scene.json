@@ -11,8 +11,8 @@
       "glyph": "cathode",
       "label": "Mixed cathode feed",
       "role": "path",
-      "x": 0.5,
-      "y": 0.16
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
@@ -20,23 +20,23 @@
       "label": "Surface-conditioning concept",
       "role": "path",
       "x": 0.5,
-      "y": 0.3
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "froth",
       "label": "One compatible material to bubbles",
       "role": "path",
-      "x": 0.5,
-      "y": 0.44
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "froth",
       "label": "Froth",
       "role": "path",
-      "x": 0.5,
-      "y": 0.58
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
@@ -44,15 +44,15 @@
       "label": "Remaining slurry",
       "role": "path",
       "x": 0.5,
-      "y": 0.72
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "doc",
       "label": "Electrochemical suitability",
       "role": "path",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
