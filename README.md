@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cathode-froth-flotation-separation-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cathode-froth-flotation-separation-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cathode Froth-Flotation Separation. Play, scrub, or jump the five stages. The same frame always draws the same picture.
